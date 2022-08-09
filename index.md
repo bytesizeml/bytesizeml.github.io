@@ -8,7 +8,7 @@
 ***
 
 
-| [Home](index.md)  | [Recommender Systems Course](recsys/index.md)  | [AI and Health Care Course](aihealthcare/index.md)      | [About me](karthik.md) |
+| [Home](index.md)  | [Recommender Systems Course](../recsys/index.md)  | [AI and Health Care Course](../aihealthcare/index.md)      | [About me](karthik.md) |
 
 
 ***
