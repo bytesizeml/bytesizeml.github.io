@@ -8,7 +8,7 @@
 ***
 
 
-| [Home](index.md)  | [Recommender Systems Course](https://bytesizeml.github.io/recsys)  | [AI and Health Care Course](https://bytesizeml.github.io/aihealthcare)      | [About me](karthik.md) |
+| [Home](index.md)  | [Computer Vision Course](https://bytesizeml.github.io/cv2022) | [Recommender Systems Course](https://bytesizeml.github.io/recsys)  | [AI and Health Care Course](https://bytesizeml.github.io/aihealthcare)      | [About me](karthik.md) |
 
 
 ***
